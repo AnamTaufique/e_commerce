@@ -1,0 +1,168 @@
+04/02/25 10:40:50 PM: INFO *******88test_003_test_case*******
+04/02/25 10:40:50 PM: INFO  *********test_add_customer*******
+04/02/25 10:40:52 PM: INFO logging is sucessfull
+04/02/25 10:40:52 PM: INFO starting add customer 
+04/02/25 10:41:13 PM: INFO adding customer infomation
+04/02/25 10:41:30 PM: INFO Add customer test is successful
+04/02/25 10:41:30 PM: INFO end of add customer test
+04/03/25 12:36:10 PM: INFO ******** test_004_testcase ******
+04/03/25 12:36:10 PM: INFO *******test_search_customer *********
+04/03/25 12:36:15 PM: INFO *******login process******
+04/03/25 12:36:46 PM: INFO ******** test_004_testcase ******
+04/03/25 12:36:46 PM: INFO *******test_search_customer *********
+04/03/25 12:36:47 PM: INFO *******login process******
+04/03/25 12:37:59 PM: INFO ******** test_004_testcase ******
+04/03/25 12:37:59 PM: INFO *******test_search_customer *********
+04/03/25 12:38:01 PM: INFO *******login process******
+04/03/25 12:38:07 PM: INFO ****** search customer****
+04/03/25 12:39:25 PM: INFO ******** test_004_testcase ******
+04/03/25 12:39:25 PM: INFO *******test_search_customer *********
+04/03/25 12:39:26 PM: INFO *******login process******
+04/03/25 12:39:33 PM: INFO ****** search customer****
+04/09/25 09:35:34 AM: INFO ******** test_004_testcase ******
+04/09/25 09:35:34 AM: INFO *******test_search_customer *********
+04/09/25 09:35:35 AM: INFO *******login process******
+04/09/25 09:35:41 AM: INFO ****** search customer****
+04/09/25 09:37:41 AM: INFO ******** test_004_testcase ******
+04/09/25 09:37:41 AM: INFO *******test_search_customer *********
+04/09/25 09:37:43 AM: INFO *******login process******
+04/09/25 09:37:55 AM: INFO ****** search customer****
+04/09/25 09:39:36 AM: INFO ******** test_004_testcase ******
+04/09/25 09:39:36 AM: INFO *******test_search_customer *********
+04/09/25 09:39:37 AM: INFO *******login process******
+04/09/25 09:39:50 AM: INFO ****** search customer****
+04/09/25 09:43:12 AM: INFO ******** test_004_testcase ******
+04/09/25 09:43:12 AM: INFO *******test_search_customer *********
+04/09/25 09:43:13 AM: INFO *******login process******
+04/09/25 09:43:25 AM: INFO ****** search customer****
+04/09/25 09:45:54 AM: INFO ******** test_004_testcase ******
+04/09/25 09:45:54 AM: INFO *******test_search_customer *********
+04/09/25 09:45:56 AM: INFO *******login process******
+04/09/25 09:46:07 AM: INFO ****** search customer****
+04/09/25 09:48:49 AM: INFO ******** test_004_testcase ******
+04/09/25 09:48:49 AM: INFO *******test_search_customer *********
+04/09/25 09:48:50 AM: INFO *******login process******
+04/09/25 09:49:03 AM: INFO ****** search customer****
+04/09/25 09:50:15 AM: INFO ******** test_004_testcase ******
+04/09/25 09:50:15 AM: INFO *******test_search_customer *********
+04/09/25 09:50:16 AM: INFO *******login process******
+04/09/25 09:50:29 AM: INFO ****** search customer****
+04/09/25 09:55:31 AM: INFO ******** test_004_testcase ******
+04/09/25 09:55:31 AM: INFO *******test_search_customer *********
+04/09/25 09:55:32 AM: INFO *******login process******
+04/09/25 09:55:44 AM: INFO ****** search customer****
+04/09/25 10:02:54 AM: INFO ******** test_004_testcase ******
+04/09/25 10:02:54 AM: INFO *******test_search_customer *********
+04/09/25 10:02:55 AM: INFO *******login process******
+04/09/25 10:03:07 AM: INFO ****** search customer****
+04/09/25 10:08:54 AM: INFO ******** test_004_testcase ******
+04/09/25 10:08:54 AM: INFO *******test_search_customer *********
+04/09/25 10:08:56 AM: INFO *******login process******
+04/09/25 10:09:10 AM: INFO ****** search customer****
+04/09/25 10:10:10 AM: INFO ******** test_004_testcase ******
+04/09/25 10:10:10 AM: INFO *******test_search_customer *********
+04/09/25 10:10:11 AM: INFO *******login process******
+04/09/25 10:10:23 AM: INFO ****** search customer****
+04/09/25 10:11:43 AM: INFO ******** test_004_testcase ******
+04/09/25 10:11:43 AM: INFO *******test_search_customer *********
+04/09/25 10:11:44 AM: INFO *******login process******
+04/09/25 10:11:57 AM: INFO ****** search customer****
+04/09/25 10:13:04 AM: INFO ******** test_004_testcase ******
+04/09/25 10:13:04 AM: INFO *******test_search_customer *********
+04/09/25 10:13:05 AM: INFO *******login process******
+04/09/25 10:13:18 AM: INFO ****** search customer****
+04/09/25 10:13:55 AM: INFO ******** test_004_testcase ******
+04/09/25 10:13:55 AM: INFO *******test_search_customer *********
+04/09/25 10:13:56 AM: INFO *******login process******
+04/09/25 10:14:09 AM: INFO ****** search customer****
+04/09/25 10:15:09 AM: INFO ******** test_004_testcase ******
+04/09/25 10:15:09 AM: INFO *******test_search_customer *********
+04/09/25 10:15:10 AM: INFO *******login process******
+04/09/25 10:15:22 AM: INFO ****** search customer****
+04/09/25 10:58:34 AM: INFO ******** test_004_testcase ******
+04/09/25 10:58:34 AM: INFO *******test_search_customer *********
+04/09/25 10:58:36 AM: INFO *******login process******
+04/09/25 10:58:49 AM: INFO ****** search customer****
+04/09/25 11:02:54 AM: INFO ******** test_004_testcase ******
+04/09/25 11:02:54 AM: INFO *******test_search_customer *********
+04/09/25 11:02:56 AM: INFO *******login process******
+04/09/25 11:03:08 AM: INFO ****** search customer****
+04/09/25 11:05:31 AM: INFO ******** test_004_testcase ******
+04/09/25 11:05:31 AM: INFO *******test_search_customer *********
+04/09/25 11:05:32 AM: INFO *******login process******
+04/09/25 11:05:43 AM: INFO ****** search customer****
+04/09/25 11:07:34 AM: INFO ******** test_004_testcase ******
+04/09/25 11:07:34 AM: INFO *******test_search_customer *********
+04/09/25 11:07:36 AM: INFO *******login process******
+04/09/25 11:07:48 AM: INFO ****** search customer****
+04/09/25 11:08:48 AM: INFO ******** test_004_testcase ******
+04/09/25 11:08:48 AM: INFO *******test_search_customer *********
+04/09/25 11:08:50 AM: INFO *******login process******
+04/09/25 11:09:01 AM: INFO ****** search customer****
+04/09/25 11:10:11 AM: INFO ******** test_004_testcase ******
+04/09/25 11:10:11 AM: INFO *******test_search_customer *********
+04/09/25 11:10:13 AM: INFO *******login process******
+04/09/25 11:10:24 AM: INFO ****** search customer****
+04/09/25 11:14:15 AM: INFO ******** test_004_testcase ******
+04/09/25 11:14:15 AM: INFO *******test_search_customer *********
+04/09/25 11:14:27 AM: INFO *******login process******
+04/09/25 11:15:06 AM: INFO ****** search customer****
+04/09/25 11:18:39 AM: INFO ******** test_004_testcase ******
+04/09/25 11:18:39 AM: INFO *******test_search_customer *********
+04/09/25 11:18:41 AM: INFO *******login process******
+04/09/25 11:18:52 AM: INFO ****** search customer****
+04/09/25 11:19:55 AM: INFO ******** test_004_testcase ******
+04/09/25 11:19:55 AM: INFO *******test_search_customer *********
+04/09/25 11:19:56 AM: INFO *******login process******
+04/09/25 11:20:09 AM: INFO ****** search customer****
+04/09/25 11:58:39 AM: INFO *******88test_003_test_case*******
+04/09/25 11:58:39 AM: INFO  *********test_add_customer*******
+04/09/25 11:58:42 AM: INFO logging is sucessfull
+04/09/25 11:58:42 AM: INFO starting add customer 
+04/09/25 11:59:03 AM: INFO adding customer infomation
+04/09/25 11:59:20 AM: INFO Add customer test is successful
+04/09/25 11:59:20 AM: INFO end of add customer test
+04/09/25 11:59:22 AM: INFO ******** test_login *********
+04/09/25 11:59:49 AM: INFO **********test_login is passed********
+04/09/25 12:33:18 PM: INFO *******88test_003_test_case*******
+04/09/25 12:33:18 PM: INFO  *********test_add_customer*******
+04/09/25 12:33:20 PM: INFO logging is sucessfull
+04/09/25 12:33:20 PM: INFO starting add customer 
+04/09/25 12:33:41 PM: INFO adding customer infomation
+04/09/25 12:33:59 PM: INFO ******** test_login *********
+04/09/25 12:34:26 PM: INFO **********test_login is passed********
+04/09/25 12:34:29 PM: INFO *******88test_003_test_case*******
+04/09/25 12:34:29 PM: INFO  *********test_add_customer*******
+04/09/25 12:34:31 PM: INFO logging is sucessfull
+04/09/25 12:34:31 PM: INFO starting add customer 
+04/09/25 12:34:52 PM: INFO adding customer infomation
+04/09/25 12:35:08 PM: INFO Add customer test is successful
+04/09/25 12:35:09 PM: INFO end of add customer test
+04/09/25 12:35:10 PM: INFO ****** Test_001_login *******
+04/09/25 12:35:10 PM: INFO ******** test_login *********
+04/09/25 12:35:22 PM: INFO Test Passed
+04/09/25 12:35:38 PM: INFO DDT Login test case passed
+04/09/25 12:35:39 PM: INFO End of DDT test
+04/09/25 12:35:40 PM: INFO ********** Test_001_login ********
+04/09/25 12:35:40 PM: INFO **********test_homepage_title ****
+04/09/25 12:35:45 PM: INFO ********* Home_title test case is passed******
+04/09/25 12:35:47 PM: INFO ******** test_login *********
+04/09/25 12:35:54 PM: INFO *******88test_003_test_case*******
+04/09/25 12:35:54 PM: INFO  *********test_add_customer*******
+04/09/25 12:35:55 PM: INFO logging is sucessfull
+04/09/25 12:35:55 PM: INFO starting add customer 
+04/09/25 12:36:02 PM: INFO ******** test_login *********
+04/09/25 12:36:29 PM: INFO **********test_login is passed********
+04/09/25 12:36:31 PM: INFO *******88test_003_test_case*******
+04/09/25 12:36:31 PM: INFO  *********test_add_customer*******
+04/09/25 12:36:34 PM: INFO logging is sucessfull
+04/09/25 12:36:34 PM: INFO starting add customer 
+04/09/25 12:36:55 PM: INFO adding customer infomation
+04/09/25 12:37:13 PM: INFO ****** Test_001_login *******
+04/09/25 12:37:13 PM: INFO ******** test_login *********
+04/09/25 12:37:25 PM: INFO Test Passed
+04/09/25 12:37:42 PM: INFO DDT Login test case passed
+04/09/25 12:37:42 PM: INFO End of DDT test
+04/09/25 12:37:44 PM: INFO ********** Test_001_login ********
+04/09/25 12:37:44 PM: INFO **********test_homepage_title ****
+04/09/25 12:37:51 PM: INFO ******** test_login *********
